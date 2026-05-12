@@ -1,72 +1,76 @@
 <div align="center">
-<img src="https://github.com/Cherises/Cherises/blob/main/actor-1.jpg" align="center" style="width: 200px;height:200px" />
-</div>  
 
-# 👋 Hi, I'm Leonardo
+# 👋 你好，我是 NeoChenyang(Leonardo)
 
-💻 **Full Stack Developer | Python & Java Enthusiast | Linux Power User**
+### 全栈开发探索者 / Linux 深度用户 / 终身学习者
 
-🌱 **Currently diving deep into:**
-- SpringBoot ecosystem
-- Vue3 and TypeScript
-- SpringCloud Alibaba
+[![GitHub](https://img.shields.io/badge/GitHub-NeoChenyang-181717?logo=github)](https://github.com/NeoChenyang)
+[![Gmail](https://img.shields.io/badge/Gmail-zhaozhinet%40gmail.com-EA4335?logo=gmail)](mailto:zhaozhinet@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-NeoChenyang.github.io-4f46e5?logo=githubpages)](https://NeoChenyang.github.io/)
 
-🛠️ **Tech Stack:**
-- Languages: Python, Java, JavaScript  
-- Backend: SpringBoot  
-- Frontend: HTML/CSS, Thymeleaf, Vue3  
-- Databases: MySQL  
-- DevOps: Linux, Docker  
-
-📚 Always learning and exploring new technologies to build robust and scalable applications.
-
-📫 **How to reach me:**
-- Email: zhaozhinet@gmail.com  
-
-🔍 Looking to collaborate on open source projects and innovative web applications.
-
-🐧 Fun fact: I use Ubuntu Linux btw!  
+</div>
 
 ---
 
-## 🚀 My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 📖 关于我
 
-### 🌐 Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-</div>
+- 🎓 **沈阳工业大学** · 计算机科学与技术专业
+- 💻 热爱**全栈开发**，用 **Spring Boot** 搭建后端 + **Vue 3** 构建前端
+- 🐧 **Linux 深度用户**：Fedora / Ubuntu / Mint，喜欢折腾终端和自建服务
+- 🔧 追求效率：`zsh` + `fzf` + `ranger` 是我的日常伴侣
 
-</td><td valign="top" width="33%">
-
-### ⚙️ Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### 🛠️ DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
+> *"真正重要的不是掌握多少技术，而是持续探索与长期积累的能力。"*
 
 ---
 
-## 📊 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cherises&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 🛠️ 技术栈
+
+| 分类 | 技术 |
+|------|------|
+| ☕ **后端** | Java / Spring Boot / Spring Cloud Alibaba / MySQL / Redis / MyBatis-Plus |
+| 🎨 **前端** | Vue 3 / TypeScript / Tailwind CSS / Element Plus / Thymeleaf |
+| 🐧 **Linux & DevOps** | Fedora / Ubuntu / Docker / Shell Script / Git / Nginx / Samba |
+| 🤖 **AI & 工具** | Ollama / Zsh + Powerlevel10k / VS Code / JetBrains / UML |
 
 ---
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Cherises&&style=flat-square" align="center" /></div>  
+## 📌 正在进行的项目
+
+### 🔹 在线招聘与在线签约系统
+> 基于 **Spring Boot + Vue 3** 的全栈解决方案
+
+- 从数据库 E-R 图设计到后端权限管理，再到前端响应式交互
+- 将复杂的招聘流程打造成流畅的数字化体验
+
+`#全栈项目` `#进行中`
+
+---
+
+## 💻 主力装备
+
+| 设备 | 型号 | 配置 |
+|------|------|------|
+| 💻 主力笔记本 | Dell G15 5520 | i7-12700H / 32GB / RTX 3060 |
+| 🍏 移动设备 | MacBook Air M1 | 轻量开发 |
+| 🐧 家庭服务器 | Fedora Xfce 43 | 跑着 Samba / MySQL / 各种自建服务 |
+
+---
+
+## 📫 与我联系
+
+- 📧 邮箱：`zhaozhinet@gmail.com`
+- 🔗 GitHub：[github.com/NeoChenyang](https://github.com/NeoChenyang)
+- 📝 博客：
+  - [Main Blog](https://NeoChenyang.github.io/)
+  - [Mirror (Netlify)](https://neochenyang.netlify.app/)
+  - [Mirror (Cloudflare)](https://neochenyang.zhaozhinet.workers.dev/)
+
+---
+
+<div align="center">
+  
+  *✨ 无论你想聊 Linux 发行版，还是讨论 Spring Boot 架构，欢迎交流 ✨*
+  
+  <sub>© 2026 NeoChenyang Leonardo · Code & Passion</sub>
+  
+</div>
